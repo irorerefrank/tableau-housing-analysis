@@ -40,7 +40,7 @@ A screenshot of the dashboard is included for quick reference.
 ---
 
 ## Screenshot
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ---
 
